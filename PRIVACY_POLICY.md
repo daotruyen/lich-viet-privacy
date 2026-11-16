@@ -60,5 +60,5 @@ Nếu trong tương lai chúng tôi bổ sung các tính năng mới cần cập
 ### 7. Thông Tin Liên Hệ & Hỗ Trợ
 Nếu bạn có bất kỳ câu hỏi, thắc mắc hoặc yêu cầu hỗ trợ nào liên quan đến Quyền riêng tư hoặc tính năng của Lịch Việt, vui lòng liên hệ:
 * **Đơn vị phát triển:** Lịch Việt Team
-* **Email hỗ trợ:** `hotro.lichviet@gmail.com`
+* **Email hỗ trợ:** `splus2207@gmail.com`
 * **Trang Chính sách quyền riêng tư:** `https://daotruyen.github.io/lich-viet-privacy/`
